@@ -5,6 +5,7 @@ title = 'Database Engineering - Parameterized Query Pada PostgreSQL'
 date = 2024-02-24T11:27:08+07:00
 draft = false
 tags =  ['database-engineering']
+aliases = ['/posts/2024-02-24-database-engineering-parameterized-query-in-postgresql/']
 +++
 
 pada saat di universitas, penulis pertama kali mendengar istilah 'injection attack' dalam kelas __cyber security__.

@@ -5,6 +5,7 @@ description = 'Sebuah jebakan tanpa akhir bagi para praktisi - terus menonton, m
 date = 2025-10-27T15:30:00+07:00
 draft = false
 tags = ['engineer-journal', 'learning']
+aliases = ['/posts/2025-10-27-engineer-journal-tutorial-hell/']
 +++
 
 # Pengenalan

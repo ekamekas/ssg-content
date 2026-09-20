@@ -4,6 +4,7 @@ description = 'mayoritas proyek AI gagal karena ketidakpastian tinggi, ketergant
 date = 2025-11-26
 draft = false
 tags = ['engineer-journal', 'project-management']
+aliases = ['/posts/2025-11-26-engineer-journal-cpmai-untuk-manajerial-proyek-ai/']
 +++
 
 # Pengenalan

@@ -5,6 +5,7 @@ description = 'saat migrasi ke cloud tidak langsung seluruhnya, bisa jadi data t
 date = 2024-02-18T10:22:30+07:00
 draft = false
 tags =  ['cloud-engineering','google']
+aliases = ['/posts/2024-02-18-cloud-engineering-connect-private-cloud-sql/']
 +++
 
 kita sedang dalam tahap migrasi, dimana data dan database yang terlebih dahulu dimigrasikan ke Google Cloud Provider. solusi yang dipakai adalah menggunakan DaaS (database as a service) Cloud SQL dan dikonfigurasi hanya menggunakan private IP.

@@ -5,6 +5,7 @@ description = 'Sebuah eksperimen ringan menguji performa server HTTP sederhana m
 date = 2025-04-26T19:27:00+07:00
 draft = false
 tags = ['engineer-journal']
+aliases = ['/posts/2025-04-26-engineer-journal-benchmarking-go-rust-and-zig-web-perforamance/']
 +++
 
 # Pengenalan

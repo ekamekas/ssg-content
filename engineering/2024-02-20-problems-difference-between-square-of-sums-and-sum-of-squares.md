@@ -5,6 +5,7 @@ description = 'penyelesaian perbedaan antara dua operasi dengan menggunakan dua 
 date = 2024-02-22
 draft = false
 tags =  ['fundamental']
+aliases = ['/posts/2024-02-20-problems-difference-between-square-of-sums-and-sum-of-squares/']
 +++
 
 diketahui sebuah persoalan dimana kita diperlukan untuk mencari perbedaan antara nilai dari kuadrat atas penjumlahan angka dari 1 ke N dan nilai dari jumlahan dari angka 1 ke N yang dikuadratkan, dimana N adalah bilangan asli. apabila ditulis dalam notasi matematika, kita mencari hasil dari (Σn)² - (Σn²).

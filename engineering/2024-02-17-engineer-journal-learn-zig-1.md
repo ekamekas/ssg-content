@@ -5,6 +5,7 @@ description = 'berkenalan dengan Zig - sebuah bahasa pemrograman umum yang katan
 date = '2024-02-17T18:57:01+07:00'
 draft = false
 tags = ['zig','engineer-journal']
+aliases = ['/posts/2024-02-17-engineer-journal-learn-zig-1/']
 +++
 
 # Pengenalan

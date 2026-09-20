@@ -4,6 +4,7 @@ description = 'Java 25 membawa banyak peningkatan signifikan mulai dari Pattern 
 date = 2025-10-29
 draft = false
 tags = ['engineer-journal', 'java']
+aliases = ['/posts/2025-10-29-engineer-journal-java-25/']
 +++
 
 # Pengenalan
