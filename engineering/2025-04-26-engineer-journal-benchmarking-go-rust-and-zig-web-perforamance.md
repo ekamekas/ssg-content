@@ -1,10 +1,10 @@
 +++
-title = 'Engineer Journal - Golang, Rust, and Zig Web Performance Benchmark'
+title = 'Golang, Rust, and Zig Web Performance Benchmark'
 description = 'Sebuah eksperimen ringan menguji performa server HTTP sederhana menggunakan Go, Rust, dan Zig. Artikel ini membahas pendekatan, hasil benchmark, serta catatan kecil seputar impresi dari masing-masing bahasa.'
-#tldr = 'Summary to SHOW on detail'
 date = 2025-04-26T19:27:00+07:00
 draft = false
-tags = ['engineer-journal']
+series = ['Engineer Journal']
+tags = ['go', 'rust', 'zig', 'benchmark']
 aliases = ['/posts/2025-04-26-engineer-journal-benchmarking-go-rust-and-zig-web-perforamance/']
 +++
 

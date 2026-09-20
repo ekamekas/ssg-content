@@ -1,10 +1,10 @@
 +++
-title = 'Engineer Journal - Learn Zig #1'
+title = 'Learn Zig #1'
 description = 'berkenalan dengan Zig - sebuah bahasa pemrograman umum yang katanya seperti C dalam hal performa, namun lebih baik. tapi bukankan sudah ada Go dan Rust? yang bahkan lebih dewasa serta juga battle-tested. artikel ini akan sebagai awal dari jurnal penulis dalam mempelajari Zig, perbandingan dengan bahasa lain, dan aplikasinya dalam kebutuhan penulis.'
-#tldr = 'Summary to SHOW on detail'
-date = '2024-02-17T18:57:01+07:00'
+date = 2024-02-17T18:57:01+07:00
 draft = false
-tags = ['zig','engineer-journal']
+series = ['Engineer Journal']
+tags = ['zig']
 aliases = ['/posts/2024-02-17-engineer-journal-learn-zig-1/']
 +++
 

@@ -1,10 +1,9 @@
 +++
-title = 'Problem - Difference Between Square of Sums and Sum of Squares'
+title = 'Difference Between Square of Sums and Sum of Squares'
 description = 'penyelesaian perbedaan antara dua operasi dengan menggunakan dua pendekatan yang berbeda. math is "fun" :)'
-#tldr = 'Summary to SHOW on detail'
 date = 2024-02-22
 draft = false
-tags =  ['fundamental']
+tags = ['matematika', 'fundamental']
 aliases = ['/posts/2024-02-20-problems-difference-between-square-of-sums-and-sum-of-squares/']
 +++
 

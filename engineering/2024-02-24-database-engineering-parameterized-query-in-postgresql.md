@@ -1,10 +1,9 @@
 +++
-title = 'Database Engineering - Parameterized Query Pada PostgreSQL'
-#description = 'Summary to SHOW on post list'
-#tldr = 'Summary to SHOW on detail'
+title = 'Parameterized Query Pada PostgreSQL'
+description = 'injection attack menyisipkan kode berbahaya lewat masukan pengguna, dan penyebabnya hampir selalu sama: query yang dirakit dengan sambung-menyambung string. tulisan ini membahas parameterized query pada PostgreSQL sebagai penangkalnya, beserta cara kerjanya di sisi server.'
 date = 2024-02-24T11:27:08+07:00
 draft = false
-tags =  ['database-engineering']
+tags = ['postgresql', 'keamanan']
 aliases = ['/posts/2024-02-24-database-engineering-parameterized-query-in-postgresql/']
 +++
 

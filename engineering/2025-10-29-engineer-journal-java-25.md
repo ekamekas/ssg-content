@@ -1,9 +1,10 @@
 +++
-title = 'Engineer Journal - Java 25'
+title = 'Java 25'
 description = 'Java 25 membawa banyak peningkatan signifikan mulai dari Pattern Matching untuk primitive types hingga import modular dan Structured Concurrency. Versi LTS terbaru ini menjadi langkah besar setelah Java 21.'
 date = 2025-10-29
 draft = false
-tags = ['engineer-journal', 'java']
+series = ['Engineer Journal']
+tags = ['java']
 aliases = ['/posts/2025-10-29-engineer-journal-java-25/']
 +++
 

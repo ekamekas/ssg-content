@@ -1,9 +1,10 @@
 +++
-title = 'Engineer Journal - PMP Saja Tidak Cukup Dalam Mengelola Proyek AI'
+title = 'PMP Saja Tidak Cukup Dalam Mengelola Proyek AI'
 description = 'mayoritas proyek AI gagal karena ketidakpastian tinggi, ketergantungan pada data, dan keterbatasan kerangka pmp/pmbok dalam menangani sifat eksperimental AI. PMI-CPMAI™ hadir sebagai metodologi khusus yang menjawab kebutuhan tata kelola data, iterasi, dan etika dalam proyek AI. dengan AI yang mengotomatisasi tugas rutin, manajer proyek perlu beralih menjadi pemimpin strategis yang berfokus pada nilai bisnis dan adaptasi berkelanjutan.'
 date = 2025-11-26
 draft = false
-tags = ['engineer-journal', 'project-management']
+series = ['Engineer Journal']
+tags = ['project-management', 'ai']
 aliases = ['/posts/2025-11-26-engineer-journal-cpmai-untuk-manajerial-proyek-ai/']
 +++
 

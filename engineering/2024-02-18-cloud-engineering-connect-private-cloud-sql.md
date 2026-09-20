@@ -1,10 +1,9 @@
 +++
-title = 'Cloud Engineering - Menghubungkan Client On-Premise Ke Private Cloud SQL'
+title = 'Menghubungkan Client On-Premise Ke Private Cloud SQL'
 description = 'saat migrasi ke cloud tidak langsung seluruhnya, bisa jadi data terlebih dahulu yang dimigrasikan. lalu bagaimana menghubungkan aplikasi yang sudah ada di on-premise dengan Cloud SQL database, terutama ketika dijalankan pada jaringan privat?. artikel ini akan membahas mengenai beberapa opsi yang dilakukan, dan penggunaan Cloud Auth Proxy sebagai salah satu pilihan solusi.'
-#tldr = 'Summary to SHOW on detail'
 date = 2024-02-18T10:22:30+07:00
 draft = false
-tags =  ['cloud-engineering','google']
+tags = ['cloud', 'google-cloud', 'postgresql']
 aliases = ['/posts/2024-02-18-cloud-engineering-connect-private-cloud-sql/']
 +++
 
