@@ -1,10 +1,11 @@
 +++
-title = 'Engineer Journal - Tutorial Hell'
+title = 'Tutorial Hell'
 description = 'Sebuah jebakan tanpa akhir bagi para praktisi - terus menonton, membaca, dan subscribe course tanpa pernah dicoba dan dipraktekan. Gimana caranya keluar dari siklus menjebak ini?'
-#tldr = 'Summary to SHOW on detail'
 date = 2025-10-27T15:30:00+07:00
 draft = false
-tags = ['engineer-journal', 'learning']
+series = ['Engineer Journal']
+tags = ['learning']
+aliases = ['/posts/2025-10-27-engineer-journal-tutorial-hell/']
 +++
 
 # Pengenalan
